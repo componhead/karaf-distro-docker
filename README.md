@@ -3,7 +3,7 @@
 
 The power of Apache Karaf lays in the easy deployment of your ActiveMQ Broker, your CXF webservices, or your own Apache Camel routes. In this repo i set up my own simple camel-route using a Karaf Custom Distribution, which i dockerized!
 
-For the full `how-to` blogpost see: [https://theguild.nl](https://theguild.nl)
+For the full `how-to` blogpost see: [here](https://www.theguild.nl/dockerizing-a-custom-karaf-distribution-in-5-minutes/)
 
 ## Prerequisits
 * Java 8
