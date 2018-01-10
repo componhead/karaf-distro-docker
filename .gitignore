@@ -1,3 +1,4 @@
+karaf-distro
 target/*
 .idea/*
 *.iml
